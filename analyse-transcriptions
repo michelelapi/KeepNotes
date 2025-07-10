@@ -1,0 +1,16 @@
+I WANT YOU TO DO THESE TASKS (DO NOT SHOW ME WHAT YOU ARE DOING):
+
+    Improve the text in @transcriptions.txt
+
+    Classify the notes in @transcriptions.txt based on these groups: 
+    - BDSR, 
+    - MyWorkManagement.
+    - STU
+    - WTU
+    PAY ATTENTION THAT COULD BE MORE SEPARATE SECTIONS IN @transcriptions.txt FOR THE SAME GROUP
+    LEAVE @transcriptions.txt AS IT IS.
+
+    After the classification:
+    CREATE A NEW FILE for each group and copy the relative sections in them.
+    The file name has to have this pattern group_YYYYMMDD 
+    and have to be create in the folder KeepNotes/groups
