@@ -1,6 +1,11 @@
 audios/*
 groups/*
 
+audios/.gitkeep
 !audios/
 !groups/
+
+groups/.gitkeep
+!audios/.gitkeep
+!groups/.gitkeep
 
