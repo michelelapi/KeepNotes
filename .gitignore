@@ -1,3 +1,6 @@
-audios/
-groups/
+audios/*
+groups/*
+
+!audios/
+!groups/
 
