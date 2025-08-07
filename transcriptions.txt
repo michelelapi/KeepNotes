@@ -1,0 +1,24 @@
+2025-08-06 11:11:41: I'm working on the preceding or the goal of this task the task is the number let me see 35436 OK Google update the application to in order to respect the guideline of the o w s a p top 10 in order to do this the first task is to update the spring boot version to the three dot 4.8 and then check if all the all the unit test are working as it is now okay so now I'm going to start with the module common dto common lib and document deliver I'm going to update the date Palms to the spring boot version 3.4.1 I go and
+2025-08-06 11:11:52: gfg users
+2025-08-06 11:12:38: I'm going to ask to Corsa if it could do the updating for me
+2025-08-06 11:11:41: I'm working on the preceding or the goal of this task the task is the number let me see 35436 OK Google update the application to in order to respect the guideline of the o w s a p top 10 in order to do this the first task is to update the spring boot version to the three dot 4.8 and then check if all the all the unit test are working as it is now okay so now I'm going to start with the module common dto common lib and document deliver I'm going to update the date Palms to the spring boot version 3.4.1 I go and
+2025-08-06 11:11:52: gfg users
+2025-08-06 11:12:38: I'm going to ask to Corsa if it could do the updating for me
+2025-08-06 11:19:13: French on which I'm going to work is feature Oswald top 10
+2025-08-06 11:34:59: updating the bomb of a commodity or module and run the application I got an exception I'm going to report it into an external file
+2025-08-06 11:39:19: fix the first problem about the library Java x XML bind version and now I'm having another problem
+2025-08-06 11:40:34: now I'm going to to do the same with the common Libre module
+2025-08-06 11:44:07: and now I'm going to modify and sorry to update the module documentary
+2025-08-06 11:46:12: ok now I'm going to update the gfg utensil is an application is an a microservice so I'm going to update the Palm and then I'm going to clean and install this module and say and see if it run
+2025-08-06 11:47:06: play former plated I'm going to clean install the the model
+2025-08-06 11:47:23: bright I got an error on the framework on the module named framework Sheff G or 20 I think oh no
+2025-08-06 11:47:47: how to fix this problem
+2025-08-06 11:50:00: open up security
+2025-08-06 11:52:35: play running with the application the CFG utensil I got another alarm
+2025-08-06 11:52:44: try to fix it
+2025-08-06 16:46:28: okay finally have I fixed the the problem with the chef g utensil model the problem was about how to run modern I'm going to put the the right syntax into the note file
+2025-08-06 16:52:10: I'm now going to modify the to update the spring boot version of the authentication manager module
+2025-08-06 16:59:36: authentication manager modulo completed
+2025-08-07 16:23:35: I'm still working on the updating of a springboard I'm working on the rapper organic grandma volume module and I got the daily 14 to the note file
+2025-08-07 16:25:19: play problem fiction the problem was about the spring cloud version library update from Cors
+2025-08-07 16:47:41: okay all the module I've been updated with the new version of the spring of Spring boot free dart 4.8 now I'm I need to to see if the unit test of all the module works fine

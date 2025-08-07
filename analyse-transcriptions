@@ -1,16 +1,20 @@
 I WANT YOU TO DO THESE TASKS (DO NOT SHOW ME WHAT YOU ARE DOING):
 
-    Improve the text in @transcriptions.txt
+1. Analyze the @transcriptions.txt file and identify all sections that start with "I'm working on"
 
-    Classify the notes in @transcriptions.txt based on these groups: 
-    - BDSR, 
-    - MyWorkManagement.
-    - STU
-    - WTU
-    PAY ATTENTION THAT COULD BE MORE SEPARATE SECTIONS IN @transcriptions.txt FOR THE SAME GROUP
-    LEAVE @transcriptions.txt AS IT IS.
+2. Classify these sections into the following groups:
+   - BDSR
+   - MyWorkManagement
+   - STU
+   - WTU
+   - Proceding
 
-    After the classification:
-    CREATE A NEW FILE for each group and copy the relative sections in them.
-    The file name has to have this pattern group_YYYYMMDD 
-    and have to be create in the folder KeepNotes/groups
+3. For each group, create a separate file in the groups/ folder with the naming pattern: group_YYYYMMDD.txt (YYYYMMDD means the actual current date)
+
+4. Copy the relevant sections (including all content between "I'm working on" sections) into the appropriate group files
+
+5. Leave the original transcriptions.txt file unchanged
+
+6. Show me the classification results and confirm when the files are created
+
+PAY ATTENTION: Focus on the "I'm working on" sections as the main classification criteria. Each section that starts with "I'm working on" should be classified into one of the specified groups based on the content and context.
